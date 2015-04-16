@@ -2,7 +2,7 @@
   "name": "winston-mongodb-wt",
   "version": "1.0.0",
   "description": "winston-mongodb for worktile",
-  "main": "app.js",
+  "main": "./lib/winston-mongodb-wt",
   "scripts": {
     "test": "npm test"
   },
