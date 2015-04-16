@@ -1,0 +1,1 @@
+# winston-mongodb-wt
