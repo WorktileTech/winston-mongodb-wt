@@ -1,0 +1,27 @@
+{
+  "name": "winston-mongodb-wt",
+  "version": "1.0.0",
+  "description": "winston-mongodb for worktile",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WorktileTech/winston-mongodb-wt.git"
+  },
+  "keywords": [
+    "winston",
+    "mongdb",
+    "worktile"
+  ],
+  "author": "YCTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WorktileTech/winston-mongodb-wt/issues"
+  },
+  "homepage": "https://github.com/WorktileTech/winston-mongodb-wt",
+  "dependencies": {
+    "mongoose": "^4.0.1"
+  }
+}
