@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/WorktileTech/winston-mongodb-wt",
   "dependencies": {
-    "mongoose": "^4.0.1"
+    "mongoose": "^4.0.1",
+    "redis": "^0.12.1"
   }
 }
