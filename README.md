@@ -1,9 +1,13 @@
-# winston-mongodb for web
+# winston-mongodb for wt
 
 参考：https://github.com/winstonjs/winston-mongodb
 
 1. 支持log和error 日志的分开存储
 2. 支持错误信息 pub 到 redis中
+
+## 安装
+
+执行 `npm i winston-mongodb-wt --save`
 
 ## Usage
  ```
