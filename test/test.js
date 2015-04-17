@@ -9,12 +9,7 @@ var MongoDB = require('../lib/winston-mongodb-wt').MongoDB;
 winston.add(MongoDB, {
     label          : 'wtweb',
     db             : "mongodb://localhost:27017/wtlog",
-    errorCollection: "error",
-    redis          : {
-        host    : "42.121.64.136",
-        port    : "9322",
-        password: 'Worktile16@5'
-    }
+    errorCollection: "error"
 });
 
 winston.info("哈哈 我是info", {op: 123});
