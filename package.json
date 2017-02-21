@@ -1,6 +1,6 @@
 {
   "name": "winston-mongodb-wt",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "winston-mongodb for worktile",
   "main": "./lib/winston-mongodb-wt",
   "scripts": {
